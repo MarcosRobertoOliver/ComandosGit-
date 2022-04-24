@@ -2,8 +2,7 @@
   <img src="readme/github_animation.gif" width="300">
   <h1> Comandos git - PFS_UC7 </h1>
 </div>
-## 🧑🏻‍💻🧑🏻‍💻Desenvolvido por
-teste
+## 🧑🏻‍💻🧑🏻‍💻Desenvolvido por Marcos Roberto
 
 @[MarcosRobertoOliver](https://github.com/MarcosRobertoOliver)
 <br>
