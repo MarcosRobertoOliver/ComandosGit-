@@ -53,3 +53,15 @@ Consultei o material digital disponibilizado na plataforma do curso, seguindo as
 - Material-UI
 - Carbon Design System
 - Bulma
+
+## Tecnologias Front-End Senai
+
+# Básico
+
+- HTML
+- CSS3
+- JavaScript
+
+# Bibliotecas
+
+- AngularJS
